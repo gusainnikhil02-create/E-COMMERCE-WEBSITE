@@ -1,1 +1,5 @@
-# E-COMMERCE-WEBSITE
+git init
+git add .
+git commit -m "Initial APNA STORE release"
+git remote add origin <your‑repo‑url>
+git push -u origin master
